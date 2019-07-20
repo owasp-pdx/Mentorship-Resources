@@ -9,13 +9,14 @@ Start with where you are.  Talk through some of the core concepts mentioned in t
 
 
 
-
-
-OWASP Juice Shop
-
-Burp Suite Web Academy
-
-{% embed url="https://flaws2.cloud" %}
+| Resource | Link | Free | Type |
+| :--- | :--- | :--- | :--- |
+| The Tangled Web: A Guide to Securing Modern Web Applications | [Amazon](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) \| [Safari](https://learning.oreilly.com/library/view/the-tangled-web/9781593273880/) | No | Book |
+| The Web Application Hacker's Handbook | [Amazon](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=KRN7GGFAGX6H1FTFE9WG) \| [Safari](https://learning.oreilly.com/library/view/the-web-application/9781118026472/) | No | Book |
+| Threat Modeling: Designing for Security | [Amazon](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998/ref=sr_1_1?crid=2O5L2HFEH4RM&keywords=threat+modeling+designing+for+security&qid=1563594803&s=books&sprefix=threat+mod%2Cstripbooks%2C198&sr=1-1) \| [Safari](https://learning.oreilly.com/library/view/threat-modeling-designing/9781118810057/) | No | Book |
+| OWASP Juice Shop | [github](https://github.com/bkimminich/juice-shop) | Yes | Lab |
+| Portswigger \(Burpsuite\) Web Academy | [website](https://portswigger.net/web-security) | Yes | Lab |
+| Flaws2.cloud | [website](https://flaws2.cloud) | Yes | Lab |
 
 
 
