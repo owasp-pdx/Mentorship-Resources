@@ -17,6 +17,8 @@ Start with where you are.  Talk through some of the core concepts mentioned in t
 | OWASP Juice Shop | [github](https://github.com/bkimminich/juice-shop) | Yes | Lab |
 | Portswigger \(Burpsuite\) Web Academy | [website](https://portswigger.net/web-security) | Yes | Lab |
 | Flaws2.cloud | [website](https://flaws2.cloud) | Yes | Lab |
+| OWASP Top 10 | [wiki](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project) | Yes | Document |
+| overthewire Bandit | [website](http://overthewire.org/wargames/bandit/) | Yes | Lab |
 
 
 
