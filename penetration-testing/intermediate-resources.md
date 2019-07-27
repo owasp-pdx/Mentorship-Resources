@@ -1,11 +1,5 @@
 # Intermediate Resources
 
-### Publications
-
-| Resource | Link | Free |
-| :--- | :--- | :--- |
-
-
 ### Online Courses
 
 | Resource | Link | Free |
