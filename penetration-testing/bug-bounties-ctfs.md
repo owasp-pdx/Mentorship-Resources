@@ -1,4 +1,6 @@
-# Bug Bounties 
+# Bug Bounties/CTFs
 
-# Capture the Flags (CTFs)
+## Bug Bounties
+
+## Capture the Flags \(CTFs\)
 
