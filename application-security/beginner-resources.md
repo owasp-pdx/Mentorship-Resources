@@ -18,10 +18,10 @@ Start with where you are.  Talk through some of the core concepts mentioned in t
 | Portswigger \(Burpsuite\) Web Academy | [website](https://portswigger.net/web-security) | Yes | Lab | Vuln |
 | Flaws2.cloud | [website](https://flaws2.cloud) | Yes | Lab | Cloud |
 | OWASP Top 10 | [wiki](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project) | Yes | Document | Vuln |
-| overthewire Bandit | [website](http://overthewire.org/wargames/bandit/) | Yes | Lab | Linux |
+| OvertheWire CTF - Bandit | [website](http://overthewire.org/wargames/bandit/) | Yes | Lab | Linux |
 | OWASP ASVS | [website](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project) | Yes | Document | SLDC |
 | NIST Cybersecurity Framework | [website](https://www.nist.gov/cyberframework) | Yes | Framework | Cyber Security |
-|  |  |  |  |  |
+| Cybersecurity Career Path Assistant | [website](https://www.cyberseek.org/pathway.html) | Yes | Resources | Career Development |
 
 
 
